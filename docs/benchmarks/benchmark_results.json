@@ -1,0 +1,29 @@
+[
+  {
+    "records_count": 100,
+    "total_time_seconds": 0.0336,
+    "throughput_records_per_sec": 2978.74,
+    "avg_latency_per_record_ms": 0.336,
+    "memory_before_mb": 35.6,
+    "memory_after_mb": 36.41,
+    "memory_delta_mb": 0.82
+  },
+  {
+    "records_count": 500,
+    "total_time_seconds": 0.555,
+    "throughput_records_per_sec": 900.84,
+    "avg_latency_per_record_ms": 1.11,
+    "memory_before_mb": 38.11,
+    "memory_after_mb": 39.21,
+    "memory_delta_mb": 1.11
+  },
+  {
+    "records_count": 1000,
+    "total_time_seconds": 2.2443,
+    "throughput_records_per_sec": 445.57,
+    "avg_latency_per_record_ms": 2.244,
+    "memory_before_mb": 40.01,
+    "memory_after_mb": 43.43,
+    "memory_delta_mb": 3.42
+  }
+]

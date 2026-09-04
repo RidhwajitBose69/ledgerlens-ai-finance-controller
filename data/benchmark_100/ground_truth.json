@@ -1,0 +1,1002 @@
+[
+  {
+    "ground_truth_id": "GT_1001",
+    "transaction_id": "TXN_1001",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90001",
+    "true_bank_transaction_id": "BANK_5001",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1002",
+    "transaction_id": "TXN_1002",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90002",
+    "true_bank_transaction_id": "BANK_5002",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1003",
+    "transaction_id": "TXN_1003",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90003",
+    "true_bank_transaction_id": "BANK_5003",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1004",
+    "transaction_id": "TXN_1004",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90004",
+    "true_bank_transaction_id": "BANK_5004",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1005",
+    "transaction_id": "TXN_1005",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90005",
+    "true_bank_transaction_id": "BANK_5005",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1006",
+    "transaction_id": "TXN_1006",
+    "true_match_status": "FEE_VARIANCE",
+    "true_settlement_id": "set_90006",
+    "true_bank_transaction_id": "BANK_5006",
+    "true_reason_code": "FEE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 1500
+  },
+  {
+    "ground_truth_id": "GT_1007",
+    "transaction_id": "TXN_1007",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90007",
+    "true_bank_transaction_id": "BANK_5007",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1008",
+    "transaction_id": "TXN_1008",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90008",
+    "true_bank_transaction_id": "BANK_5008",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1009",
+    "transaction_id": "TXN_1009",
+    "true_match_status": "MISSING_LEDGER",
+    "true_settlement_id": "set_90009",
+    "true_bank_transaction_id": "BANK_5009",
+    "true_reason_code": "MISSING_LEDGER",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1010",
+    "transaction_id": "TXN_1010",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90010",
+    "true_bank_transaction_id": "BANK_5010",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1011",
+    "transaction_id": "TXN_1011",
+    "true_match_status": "TAX_VARIANCE",
+    "true_settlement_id": "set_90011",
+    "true_bank_transaction_id": "BANK_5011",
+    "true_reason_code": "TAX_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 500
+  },
+  {
+    "ground_truth_id": "GT_1012",
+    "transaction_id": "TXN_1012",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90012",
+    "true_bank_transaction_id": "BANK_5012",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1013",
+    "transaction_id": "TXN_1013",
+    "true_match_status": "PARTIAL_SETTLEMENT",
+    "true_settlement_id": "set_90013",
+    "true_bank_transaction_id": "BANK_5013",
+    "true_reason_code": "PARTIAL_SETTLEMENT",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 963256
+  },
+  {
+    "ground_truth_id": "GT_1014",
+    "transaction_id": "TXN_1014",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90014",
+    "true_bank_transaction_id": "BANK_5014",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1015",
+    "transaction_id": "TXN_1015",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90015",
+    "true_bank_transaction_id": "BANK_5015",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1016",
+    "transaction_id": "TXN_1016",
+    "true_match_status": "REVERSED_TRANSACTION",
+    "true_settlement_id": "set_90016",
+    "true_bank_transaction_id": "BANK_5016",
+    "true_reason_code": "REVERSED_TRANSACTION",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1017",
+    "transaction_id": "TXN_1017",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90017",
+    "true_bank_transaction_id": "BANK_5017",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1018",
+    "transaction_id": "TXN_1018",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90018",
+    "true_bank_transaction_id": "BANK_5018",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1019",
+    "transaction_id": "TXN_1019",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90019",
+    "true_bank_transaction_id": "BANK_5019",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1020",
+    "transaction_id": "TXN_1020",
+    "true_match_status": "DATE_VARIANCE",
+    "true_settlement_id": "set_90020",
+    "true_bank_transaction_id": "BANK_5020",
+    "true_reason_code": "DATE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1021",
+    "transaction_id": "TXN_1021",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90021",
+    "true_bank_transaction_id": "BANK_5021",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1022",
+    "transaction_id": "TXN_1022",
+    "true_match_status": "MISSING_SETTLEMENT",
+    "true_settlement_id": null,
+    "true_bank_transaction_id": null,
+    "true_reason_code": "MISSING_SETTLEMENT",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 4919304
+  },
+  {
+    "ground_truth_id": "GT_1023",
+    "transaction_id": "TXN_1023",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90023",
+    "true_bank_transaction_id": "BANK_5023",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1024",
+    "transaction_id": "TXN_1024",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90024",
+    "true_bank_transaction_id": "BANK_5024",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1025",
+    "transaction_id": "TXN_1025",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90025",
+    "true_bank_transaction_id": "BANK_5025",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1026",
+    "transaction_id": "TXN_1026",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90026",
+    "true_bank_transaction_id": "BANK_5026",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1027",
+    "transaction_id": "TXN_1027",
+    "true_match_status": "FEE_VARIANCE",
+    "true_settlement_id": "set_90027",
+    "true_bank_transaction_id": "BANK_5027",
+    "true_reason_code": "FEE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 1500
+  },
+  {
+    "ground_truth_id": "GT_1028",
+    "transaction_id": "TXN_1028",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90028",
+    "true_bank_transaction_id": "BANK_5028",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1029",
+    "transaction_id": "TXN_1029",
+    "true_match_status": "DATE_VARIANCE",
+    "true_settlement_id": "set_90029",
+    "true_bank_transaction_id": "BANK_5029",
+    "true_reason_code": "DATE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1030",
+    "transaction_id": "TXN_1030",
+    "true_match_status": "DATE_VARIANCE",
+    "true_settlement_id": "set_90030",
+    "true_bank_transaction_id": "BANK_5030",
+    "true_reason_code": "DATE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1031",
+    "transaction_id": "TXN_1031",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90031",
+    "true_bank_transaction_id": "BANK_5031",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1032",
+    "transaction_id": "TXN_1032",
+    "true_match_status": "CURRENCY_MISMATCH",
+    "true_settlement_id": "set_90032",
+    "true_bank_transaction_id": "BANK_5032",
+    "true_reason_code": "CURRENCY_MISMATCH",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1033",
+    "transaction_id": "TXN_1033",
+    "true_match_status": "DUPLICATE",
+    "true_settlement_id": "set_90033",
+    "true_bank_transaction_id": "BANK_5033",
+    "true_reason_code": "DUPLICATE",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1034",
+    "transaction_id": "TXN_1034",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90034",
+    "true_bank_transaction_id": "BANK_5034",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1035",
+    "transaction_id": "TXN_1035",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90035",
+    "true_bank_transaction_id": "BANK_5035",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1036",
+    "transaction_id": "TXN_1036",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90036",
+    "true_bank_transaction_id": "BANK_5036",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1037",
+    "transaction_id": "TXN_1037",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90037",
+    "true_bank_transaction_id": "BANK_5037",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1038",
+    "transaction_id": "TXN_1038",
+    "true_match_status": "REFERENCE_MISMATCH",
+    "true_settlement_id": "set_90038",
+    "true_bank_transaction_id": "BANK_5038",
+    "true_reason_code": "REFERENCE_MISMATCH",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1039",
+    "transaction_id": "TXN_1039",
+    "true_match_status": "FEE_VARIANCE",
+    "true_settlement_id": "set_90039",
+    "true_bank_transaction_id": "BANK_5039",
+    "true_reason_code": "FEE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 1500
+  },
+  {
+    "ground_truth_id": "GT_1040",
+    "transaction_id": "TXN_1040",
+    "true_match_status": "TAX_VARIANCE",
+    "true_settlement_id": "set_90040",
+    "true_bank_transaction_id": "BANK_5040",
+    "true_reason_code": "TAX_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 500
+  },
+  {
+    "ground_truth_id": "GT_1041",
+    "transaction_id": "TXN_1041",
+    "true_match_status": "MISSING_LEDGER",
+    "true_settlement_id": "set_90041",
+    "true_bank_transaction_id": "BANK_5041",
+    "true_reason_code": "MISSING_LEDGER",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1042",
+    "transaction_id": "TXN_1042",
+    "true_match_status": "TAX_VARIANCE",
+    "true_settlement_id": "set_90042",
+    "true_bank_transaction_id": "BANK_5042",
+    "true_reason_code": "TAX_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 500
+  },
+  {
+    "ground_truth_id": "GT_1043",
+    "transaction_id": "TXN_1043",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90043",
+    "true_bank_transaction_id": "BANK_5043",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1044",
+    "transaction_id": "TXN_1044",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90044",
+    "true_bank_transaction_id": "BANK_5044",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1045",
+    "transaction_id": "TXN_1045",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90045",
+    "true_bank_transaction_id": "BANK_5045",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1046",
+    "transaction_id": "TXN_1046",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90046",
+    "true_bank_transaction_id": "BANK_5046",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1047",
+    "transaction_id": "TXN_1047",
+    "true_match_status": "DUPLICATE",
+    "true_settlement_id": "set_90047",
+    "true_bank_transaction_id": "BANK_5047",
+    "true_reason_code": "DUPLICATE",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1048",
+    "transaction_id": "TXN_1048",
+    "true_match_status": "DUPLICATE",
+    "true_settlement_id": "set_90048",
+    "true_bank_transaction_id": "BANK_5048",
+    "true_reason_code": "DUPLICATE",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1049",
+    "transaction_id": "TXN_1049",
+    "true_match_status": "FEE_VARIANCE",
+    "true_settlement_id": "set_90049",
+    "true_bank_transaction_id": "BANK_5049",
+    "true_reason_code": "FEE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 1500
+  },
+  {
+    "ground_truth_id": "GT_1050",
+    "transaction_id": "TXN_1050",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90050",
+    "true_bank_transaction_id": "BANK_5050",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1051",
+    "transaction_id": "TXN_1051",
+    "true_match_status": "DUPLICATE",
+    "true_settlement_id": "set_90051",
+    "true_bank_transaction_id": "BANK_5051",
+    "true_reason_code": "DUPLICATE",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1052",
+    "transaction_id": "TXN_1052",
+    "true_match_status": "PARTIAL_SETTLEMENT",
+    "true_settlement_id": "set_90052",
+    "true_bank_transaction_id": "BANK_5052",
+    "true_reason_code": "PARTIAL_SETTLEMENT",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 770049
+  },
+  {
+    "ground_truth_id": "GT_1053",
+    "transaction_id": "TXN_1053",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90053",
+    "true_bank_transaction_id": "BANK_5053",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1054",
+    "transaction_id": "TXN_1054",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90054",
+    "true_bank_transaction_id": "BANK_5054",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1055",
+    "transaction_id": "TXN_1055",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90055",
+    "true_bank_transaction_id": "BANK_5055",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1056",
+    "transaction_id": "TXN_1056",
+    "true_match_status": "DUPLICATE",
+    "true_settlement_id": "set_90056",
+    "true_bank_transaction_id": "BANK_5056",
+    "true_reason_code": "DUPLICATE",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1057",
+    "transaction_id": "TXN_1057",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90057",
+    "true_bank_transaction_id": "BANK_5057",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1058",
+    "transaction_id": "TXN_1058",
+    "true_match_status": "UNKNOWN_TRANSACTION",
+    "true_settlement_id": "set_90058",
+    "true_bank_transaction_id": "BANK_5058",
+    "true_reason_code": "UNKNOWN_TRANSACTION",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1059",
+    "transaction_id": "TXN_1059",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90059",
+    "true_bank_transaction_id": "BANK_5059",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1060",
+    "transaction_id": "TXN_1060",
+    "true_match_status": "PARTIAL_SETTLEMENT",
+    "true_settlement_id": "set_90060",
+    "true_bank_transaction_id": "BANK_5060",
+    "true_reason_code": "PARTIAL_SETTLEMENT",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 1820833
+  },
+  {
+    "ground_truth_id": "GT_1061",
+    "transaction_id": "TXN_1061",
+    "true_match_status": "FEE_VARIANCE",
+    "true_settlement_id": "set_90061",
+    "true_bank_transaction_id": "BANK_5061",
+    "true_reason_code": "FEE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 1500
+  },
+  {
+    "ground_truth_id": "GT_1062",
+    "transaction_id": "TXN_1062",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90062",
+    "true_bank_transaction_id": "BANK_5062",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1063",
+    "transaction_id": "TXN_1063",
+    "true_match_status": "DUPLICATE",
+    "true_settlement_id": "set_90063",
+    "true_bank_transaction_id": "BANK_5063",
+    "true_reason_code": "DUPLICATE",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1064",
+    "transaction_id": "TXN_1064",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90064",
+    "true_bank_transaction_id": "BANK_5064",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1065",
+    "transaction_id": "TXN_1065",
+    "true_match_status": "MISSING_LEDGER",
+    "true_settlement_id": "set_90065",
+    "true_bank_transaction_id": "BANK_5065",
+    "true_reason_code": "MISSING_LEDGER",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1066",
+    "transaction_id": "TXN_1066",
+    "true_match_status": "DATE_VARIANCE",
+    "true_settlement_id": "set_90066",
+    "true_bank_transaction_id": "BANK_5066",
+    "true_reason_code": "DATE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1067",
+    "transaction_id": "TXN_1067",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90067",
+    "true_bank_transaction_id": "BANK_5067",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1068",
+    "transaction_id": "TXN_1068",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90068",
+    "true_bank_transaction_id": "BANK_5068",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1069",
+    "transaction_id": "TXN_1069",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90069",
+    "true_bank_transaction_id": "BANK_5069",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1070",
+    "transaction_id": "TXN_1070",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90070",
+    "true_bank_transaction_id": "BANK_5070",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1071",
+    "transaction_id": "TXN_1071",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90071",
+    "true_bank_transaction_id": "BANK_5071",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1072",
+    "transaction_id": "TXN_1072",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90072",
+    "true_bank_transaction_id": "BANK_5072",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1073",
+    "transaction_id": "TXN_1073",
+    "true_match_status": "FEE_VARIANCE",
+    "true_settlement_id": "set_90073",
+    "true_bank_transaction_id": "BANK_5073",
+    "true_reason_code": "FEE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 1500
+  },
+  {
+    "ground_truth_id": "GT_1074",
+    "transaction_id": "TXN_1074",
+    "true_match_status": "FEE_VARIANCE",
+    "true_settlement_id": "set_90074",
+    "true_bank_transaction_id": "BANK_5074",
+    "true_reason_code": "FEE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 1500
+  },
+  {
+    "ground_truth_id": "GT_1075",
+    "transaction_id": "TXN_1075",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90075",
+    "true_bank_transaction_id": "BANK_5075",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1076",
+    "transaction_id": "TXN_1076",
+    "true_match_status": "MISSING_SETTLEMENT",
+    "true_settlement_id": null,
+    "true_bank_transaction_id": null,
+    "true_reason_code": "MISSING_SETTLEMENT",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 4518935
+  },
+  {
+    "ground_truth_id": "GT_1077",
+    "transaction_id": "TXN_1077",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90077",
+    "true_bank_transaction_id": "BANK_5077",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1078",
+    "transaction_id": "TXN_1078",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90078",
+    "true_bank_transaction_id": "BANK_5078",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1079",
+    "transaction_id": "TXN_1079",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90079",
+    "true_bank_transaction_id": "BANK_5079",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1080",
+    "transaction_id": "TXN_1080",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90080",
+    "true_bank_transaction_id": "BANK_5080",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1081",
+    "transaction_id": "TXN_1081",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90081",
+    "true_bank_transaction_id": "BANK_5081",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1082",
+    "transaction_id": "TXN_1082",
+    "true_match_status": "UNKNOWN_TRANSACTION",
+    "true_settlement_id": "set_90082",
+    "true_bank_transaction_id": "BANK_5082",
+    "true_reason_code": "UNKNOWN_TRANSACTION",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1083",
+    "transaction_id": "TXN_1083",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90083",
+    "true_bank_transaction_id": "BANK_5083",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1084",
+    "transaction_id": "TXN_1084",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90084",
+    "true_bank_transaction_id": "BANK_5084",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1085",
+    "transaction_id": "TXN_1085",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90085",
+    "true_bank_transaction_id": "BANK_5085",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1086",
+    "transaction_id": "TXN_1086",
+    "true_match_status": "DATE_VARIANCE",
+    "true_settlement_id": "set_90086",
+    "true_bank_transaction_id": "BANK_5086",
+    "true_reason_code": "DATE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1087",
+    "transaction_id": "TXN_1087",
+    "true_match_status": "DATE_VARIANCE",
+    "true_settlement_id": "set_90087",
+    "true_bank_transaction_id": "BANK_5087",
+    "true_reason_code": "DATE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1088",
+    "transaction_id": "TXN_1088",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90088",
+    "true_bank_transaction_id": "BANK_5088",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1089",
+    "transaction_id": "TXN_1089",
+    "true_match_status": "MISSING_SETTLEMENT",
+    "true_settlement_id": null,
+    "true_bank_transaction_id": null,
+    "true_reason_code": "MISSING_SETTLEMENT",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 2081297
+  },
+  {
+    "ground_truth_id": "GT_1090",
+    "transaction_id": "TXN_1090",
+    "true_match_status": "REFERENCE_MISMATCH",
+    "true_settlement_id": "set_90090",
+    "true_bank_transaction_id": "BANK_5090",
+    "true_reason_code": "REFERENCE_MISMATCH",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1091",
+    "transaction_id": "TXN_1091",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90091",
+    "true_bank_transaction_id": "BANK_5091",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1092",
+    "transaction_id": "TXN_1092",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90092",
+    "true_bank_transaction_id": "BANK_5092",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1093",
+    "transaction_id": "TXN_1093",
+    "true_match_status": "DATE_VARIANCE",
+    "true_settlement_id": "set_90093",
+    "true_bank_transaction_id": "BANK_5093",
+    "true_reason_code": "DATE_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1094",
+    "transaction_id": "TXN_1094",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90094",
+    "true_bank_transaction_id": "BANK_5094",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1095",
+    "transaction_id": "TXN_1095",
+    "true_match_status": "PARTIAL_SETTLEMENT",
+    "true_settlement_id": "set_90095",
+    "true_bank_transaction_id": "BANK_5095",
+    "true_reason_code": "PARTIAL_SETTLEMENT",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 849280
+  },
+  {
+    "ground_truth_id": "GT_1096",
+    "transaction_id": "TXN_1096",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90096",
+    "true_bank_transaction_id": "BANK_5096",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1097",
+    "transaction_id": "TXN_1097",
+    "true_match_status": "TAX_VARIANCE",
+    "true_settlement_id": "set_90097",
+    "true_bank_transaction_id": "BANK_5097",
+    "true_reason_code": "TAX_VARIANCE",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 500
+  },
+  {
+    "ground_truth_id": "GT_1098",
+    "transaction_id": "TXN_1098",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90098",
+    "true_bank_transaction_id": "BANK_5098",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1099",
+    "transaction_id": "TXN_1099",
+    "true_match_status": "REVERSED_TRANSACTION",
+    "true_settlement_id": "set_90099",
+    "true_bank_transaction_id": "BANK_5099",
+    "true_reason_code": "REVERSED_TRANSACTION",
+    "expected_resolution": "HUMAN_REVIEW",
+    "expected_amount_difference": 0
+  },
+  {
+    "ground_truth_id": "GT_1100",
+    "transaction_id": "TXN_1100",
+    "true_match_status": "MATCHED",
+    "true_settlement_id": "set_90100",
+    "true_bank_transaction_id": "BANK_5100",
+    "true_reason_code": "EXACT_MATCH",
+    "expected_resolution": "AUTO_RESOLVE",
+    "expected_amount_difference": 0
+  }
+]

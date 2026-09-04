@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LedgerLens — AI Finance Controller</title>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            fintech: {
+              bg: '#111315', /* deep charcoal / graphite base */
+              card: '#1A1D20', /* slightly lighter graphite */
+              border: '#2E3238',
+              accent: '#D4FF00', /* electric lime/chartreuse */
+              emerald: '#D4FF00', /* Replaced emerald with chartreuse for primary accent */
+              rose: '#E11D48', /* crimson for risk */
+              amber: '#D97706', /* muted amber for financial warnings */
+              purple: '#38BDF8', /* Replaced purple AI glow with cool cyan for data/system states */
+              cyan: '#38BDF8',
+              surface: '#FAFAFA', /* warm ivory/off-white content surfaces */
+              textPrimary: '#FAFAFA',
+              textSecondary: '#A0AAB5'
+            }
+          },
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            mono: ['JetBrains Mono', 'monospace']
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <!-- React 18 & ReactDOM -->
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+
+  <!-- Babel Compiler for JSX in browser -->
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <style>
+    body {
+      background-color: #111315;
+      background-image: linear-gradient(rgba(46, 50, 56, 0.2) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(46, 50, 56, 0.2) 1px, transparent 1px);
+      background-size: 20px 20px;
+      color: #FAFAFA;
+      font-family: 'Inter', sans-serif;
+    }
+    .glass-card {
+      background: #1A1D20;
+      border: 1px solid #2E3238;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    }
+    .glass-card-hover {
+      transition: all 0.2s ease-in-out;
+    }
+    .glass-card-hover:hover {
+      border-color: #D4FF00;
+      box-shadow: 0 4px 20px -2px rgba(212, 255, 0, 0.1);
+    }
+    /* Custom Scrollbars */
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #111315;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #2E3238;
+      border-radius: 4px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #4A515A;
+    }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+  <div id="root"></div>
+
+  <!-- React Application Logic -->
+  <script type="text/babel" src="/app.jsx"></script>
+</body>
+</html>
