@@ -835,3 +835,50 @@ Amrita School of Computing, Amritapuri
 ## License
 
 This project was developed as a buildathon submission and demonstration project.
+---
+
+# Product Screenshots
+
+LedgerLens provides a complete finance-operations workspace for reconciliation, exception investigation, AI-assisted analysis, and controlled human resolution.
+
+## Dashboard
+
+The operational dashboard provides an overview of the active reconciliation run, processing performance, reconciled amount, unresolved variance, and review queue.
+
+![LedgerLens Dashboard](docs/screenshots/dashboard.png)
+
+## Exception Queue
+
+The exception queue prioritizes reconciliation failures by severity and financial impact, allowing finance teams to focus on the most important issues first.
+
+![Exception Queue](docs/screenshots/exception_queue.png)
+
+## Priority Filtering
+
+Finance operators can filter the queue by priority and investigate high-impact exceptions without navigating through the entire batch.
+
+![Priority Filtered Exception Queue](docs/screenshots/filterbased_exceptions.png)
+
+## Exception Workbench
+
+The Workbench brings together the internal ledger, gateway settlement, bank statement, evidence chain, financial variance, and resolution controls.
+
+![Exception Workbench](docs/screenshots/exception_workbench.png)
+
+## AI Investigation
+
+LedgerLens performs evidence-driven AI investigations and generates recommendations while keeping final financial resolution under human control.
+
+![AI Investigation](docs/screenshots/ai_investigation.png)
+
+## Root Cause & Clusters
+
+Root-cause analytics aggregate individual reconciliation failures into systemic patterns, helping finance teams identify recurring operational problems.
+
+![Root Cause Analysis](docs/screenshots/rootcause_cluster.png)
+
+## Immutable Audit Trail
+
+System detection, AI investigation, and human decisions are recorded as a traceable event lifecycle.
+
+![Audit Trail](docs/screenshots/audit_trail.png)
